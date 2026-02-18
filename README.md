@@ -14,7 +14,7 @@
 </div>
 
 <br>
- 🎓Student Engineer in Digital Systems Design<br><br>🛠️ I design, I code, and I optimize<br><br>Welcome to my build space! 🚀 I specialize in Digital Systems Engineering. I love transforming complex theoretical concepts into functional prototypes.<br><br>
+ 🎓Engineering student in design engineering, specializing in digital systems engineering.<br><br>🛠️ I design, I code, and I optimize<br><br>Welcome to my build space! 🚀 I specialize in Digital Systems Engineering. I love transforming complex theoretical concepts into functional prototypes.<br><br>
 > *"The best way to predict the future is to code it."*<br><br>📬 Let's connect!
 
 
